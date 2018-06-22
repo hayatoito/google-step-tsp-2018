@@ -2,6 +2,17 @@
 
 [Hayato Ito](https://github.com/hayatoito) (hayato@google.com)
 
+## C言語村　村人紹介
+
+<!-- 文の終わりにスペースを2つ入れると改行される -->
+村長  
+副村長  
+武士  
+農民  
+商人  
+ヤギ  
+ヤギ @kochigami 草が大好き  
+
 ## Quick Links
 
 - [Scoreboard]

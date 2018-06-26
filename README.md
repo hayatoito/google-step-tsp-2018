@@ -2,6 +2,18 @@
 
 [Hayato Ito](https://github.com/hayatoito) (hayato@google.com)
 
+## C言語村　村人紹介
+
+<!-- 文の終わりにスペースを2つ入れると改行される -->
+
+村長  @hinako 村はヤギに託した！！   
+副村長@kandmk 見守り係(?)    
+武士  @shuangyu1997 武士で候  
+農民  @yuna ヤギを可愛がるよ  
+商人  @NamikoToriyama ヤギの草を売って生計をたてている  
+ヤギ  @jhjgs ...(泣かないやぎ)  
+ヤギ @kochigami 草が大好き  
+
 ## Quick Links
 
 - [Scoreboard]

@@ -10,8 +10,8 @@
 副村長    
 武士  @shuangyu1997 武士で候  
 農民  @yuna ヤギを可愛がるよ  
-商人  @NamikoToriyama ヤギの草を売って生計をたてている　　
-ヤギ  @jhjgs ...(泣かないやぎ）
+商人  @NamikoToriyama ヤギの草を売って生計をたてている  
+ヤギ  @jhjgs ...(泣かないやぎ)  
 ヤギ @kochigami 草が大好き  
 
 ## Quick Links
